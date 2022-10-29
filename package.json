@@ -1,0 +1,16 @@
+{
+"name": "cco88",
+"theme": "cco88",
+"version": "3.7.8",
+"description": "cco88 ทางเข้าเว็บไซต์แทงบอลเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
+"keywords": [
+"cco88",
+"cco88 เครดิตฟรี",
+"cco88 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/cco88",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
